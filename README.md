@@ -1,3 +1,2 @@
-# hello-world
-#created by xuyang just for nothing , i am so boring. Maybe, i am not interesting in coding. I am tired.
-just a try
+redis源码：
+https://blog.huangz.me/diary/2014/how-to-read-redis-source-code.html
