@@ -10,3 +10,6 @@ ziplist entry:<br>
 
 redis对象<br>
 https://www.cnblogs.com/wind-snow/p/11172832.html
+
+
+http://redisbook.com/
