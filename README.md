@@ -7,3 +7,6 @@ ziplist entry:
 2、根据entry的类型决定：
 参考文件头的注释
 整数都是小端序
+
+redis对象<br>
+https://www.cnblogs.com/wind-snow/p/11172832.html
